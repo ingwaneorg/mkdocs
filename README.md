@@ -1,4 +1,4 @@
-# mkdocs template
+# mkdocs material template
 
 ## Setup
 
