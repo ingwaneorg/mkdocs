@@ -11,6 +11,10 @@
 - Run: `mkdocs serve`
 
 
+## Deployment
+
+- Run: `mkdocs gh-deploy`
+
 ---
 ## Links
 - https://squidfunk.github.io/mkdocs-material/getting-started/
